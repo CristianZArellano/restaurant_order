@@ -84,7 +84,7 @@ PENDING → CONFIRMED → PREPARING → READY → OUT_FOR_DELIVERY → DELIVERED
 
 ```bash
 # Clonar repositorio
-git clone [repository-url]
+git clone https://github.com/CristianZArellano/restaurant_order.git
 cd restaurant_orderV2
 
 # Crear entorno virtual
